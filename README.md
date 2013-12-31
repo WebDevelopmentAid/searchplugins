@@ -6,7 +6,7 @@ These search engine plugins for Mozilla Firefox help to reduce your digitial foo
 Click "Download ZIP" to download the folder, extract the file "searchplugins" from the ZIP, copy the file "searchplugins" (or its content, respectively) to your Firefox profile.
 
 ### Windows ###
-Under Windows (tested for Windows 7, 8, 8.1) you will find your Firefox profile at C:\Users\[USERNAME]\AppData\Roaming\Mozilla\Firefox\Profiles\[PROFILENAME]) where [USERNAME] is replaced by your user name (e.g. JohnDoe) and [PROFILENAME] is replaced by the name of your Firefox profile (e.g. floou2ja.Default). When using the File Explorer you might have to make visible your hidden folders.
+Under Windows (tested for Windows 7, 8, 8.1) you will find your Firefox profile at C:\Users\\\[USERNAME\]\AppData\Roaming\Mozilla\Firefox\Profiles\\\[PROFILENAME\]) where [USERNAME] is replaced by your user name (e.g. JohnDoe) and [PROFILENAME] is replaced by the name of your Firefox profile (e.g. floou2ja.Default). When using the File Explorer you might have to make visible your hidden folders.
 
 If you already have a folder "searchplugins" in your Firefox profile, copy the **content** of the downloaded and extracted "searchplugins" folder and paste it to your "searchplugins" folder of your Firefox profile.
 
